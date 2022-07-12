@@ -1,0 +1,52 @@
+
+body {
+    background-color: rgb(68, 64, 64);
+    margin: 5%;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+    color: white;
+}
+
+#img{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 50%;
+    padding-bottom: 2vmax;
+    border-radius: 50%;
+}
+
+#caption {
+    font-size: 2vmax;
+    color: wheat;
+
+}
+p{
+    color: wheat;
+    font-size: 1.4vmax;
+}
+div#tribute-data {
+    background-color: rgba(112, 154, 165, 0.25);
+    box-shadow: 10px 20px 20px #666966;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+h1.title-APJ {
+    font-size: 2.8vmax;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
